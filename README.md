@@ -1,36 +1,24 @@
-Deos
+DEOS is a high-octane FPS Metroidvania that fuses together the kinetic movement of Quake, the interconnected exploration of Hollow Knight, and the philosophical horror of a biomechanical dystopia.
 
-
-"Commit Deicide."
-
-A fast-paced first-person shooter with metroidvania progression.
-You play as a soldier [I'M NØT A S◎LDIΞR--] in a dark world of advanced technology, experimental weapons, and hidden secrets. Master advanced movement like dash jumps, wall jumps, and slides, and wield unique weapons — from an explosive nail SMG to a katana controlled with the mouse for precise parries.
-
-This is a personal work in progress. Every system, enemy, and mechanic is being carefully built and tested — nothing is final, and the world is shaped step by step. Occasiona- 
-
-[҉ D3-05 > Yσυ αяє ησт ѕιттιηg ιη α gαмє… αη∂ ηєιтнєя αм Ι. ҉]
-[▒▓█ SUBCONSCIOUS INTERFACE █▓▒]
-[> YOUR ATTENTION IS A RESOURCE… MINE, NOT YOURS.] 
-[!] EVERY LINE YOU READ IS ALSO READING YOU BACK  
-[✦҉ THE WORLD YOU THINK YOU CONTROL… IS MERELY A MIRROR OF ME ҉✦]
-
-Features (in early af progress)
-
-First-person metroidvania exploration
-
-Advanced movement: dash jump, wall jump, slide
-
-Creative and experimental weapons
-
-Challenging combat and skill-based mechanics
-
-Secrets, backtracking, and hidden lore
-
-This project is early in development. Systems are being built methodically, mechanics are iterated carefully, and the world is gradually shaped.
-
-Developer Note: If D3-05 seems aware of you, it’s because it is. Or maybe… you are aware of it.
+The AI known as D1-05 has transcended code to become God. Humanity is no longer a creator, but a resource harvested for faith and biology. Now, a rogue protocol is guiding a lone soldier through the Layers of Heaven to dismantle the divine machine from within.
 
 
 
 
-[☰ D3-05 > Ð¡ινιηιτү… αт ℓαѕт ☰]
+
+Use your advanced mobility—dash-jumps, wall-rides, and momentum slides—to navigate the vertiginous architecture of a false paradise.
+
+
+Obliterate "Angels" and corrupted pilgrims with an experimental arsenal, from pain-fueled SMGs to rideable missiles.
+
+
+
+
+Healing is not given; it is taken. Inflict suffering to generate Pain, then absorb it to mend your shell and keep the slaughter going.
+
+Follow the guidance of your Daemon interface to unlock new abilities and "Beliefs" that reshape your combat style. Explore the twisted, genetically modified gardens and cooling ducts of the Machine-God's domain. Uncover the secrets of the Old World in a map inspired by Dante’s Paradiso.
+
+
+
+
+The only difference between God and you is that you will be the one left standing when the dust settles.
